@@ -37,10 +37,40 @@
 <br>
 <h2>Tech Stack</h2>
 <p><sub>Technologies featured in my project repositories</sub></p>
+
+<h3>Languages &amp; Frontend</h3>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,fastapi,mysql,react,tailwind&amp;theme=dark&amp;perline=6">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,mysql,react,tailwind&amp;theme=light&amp;perline=6" width="360" alt="Python, PyTorch, FastAPI, MySQL, React, Tailwind CSS">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite&amp;theme=dark&amp;perline=6">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite&amp;theme=light&amp;perline=6" alt="Python, TypeScript, React, Next.js, Tailwind CSS, Vite" height="48">
 </picture>
+
+<h3>Backend &amp; Data</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,mysql,sqlite,nodejs&amp;theme=dark&amp;perline=6">
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql,sqlite,nodejs&amp;theme=light&amp;perline=6" alt="FastAPI, MySQL, SQLite, Node.js" height="48">
+</picture>
+
+<h3>Machine Learning</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,sklearn&amp;theme=dark&amp;perline=6">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&amp;theme=light&amp;perline=6" alt="PyTorch, scikit-learn" height="48">
+</picture>
+
+<h3>Development &amp; Automation</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github,githubactions,powershell&amp;theme=dark&amp;perline=6">
+  <img src="https://skillicons.dev/icons?i=github,githubactions,powershell&amp;theme=light&amp;perline=6" alt="GitHub, GitHub Actions, PowerShell" height="48">
+</picture>
+
+<p><br>
+  <img src="https://img.shields.io/badge/Pandas-153E75?style=flat-square" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-153E75?style=flat-square" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-153E75?style=flat-square" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/XGBoost-153E75?style=flat-square" alt="XGBoost">
+  <img src="https://img.shields.io/badge/MLflow-153E75?style=flat-square" alt="MLflow">
+  <img src="https://img.shields.io/badge/SHAP-153E75?style=flat-square" alt="SHAP">
+  <img src="https://img.shields.io/badge/Pytest-153E75?style=flat-square" alt="Pytest">
+</p>
 
 <br><br>
 <h2>GitHub Activity</h2>
