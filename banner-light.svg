@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="title desc">
+<title id="title">Tejas Rs</title><desc id="desc">Data, Machine Learning, Web. From raw data to useful applications.</desc>
+<defs><linearGradient id="line"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#38bdf8"/></linearGradient><radialGradient id="glow"><stop stop-color="#2563eb" stop-opacity=".25"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#42658a" stroke-opacity=".09"/></pattern></defs>
+<rect width="1600" height="480" rx="24" fill="#eef5ff"/><rect width="1600" height="480" rx="24" fill="url(#grid)"/><ellipse cx="1280" cy="230" rx="470" ry="360" fill="url(#glow)"/>
+<path d="M80 66H136" stroke="url(#line)" stroke-width="5"/><text x="152" y="72" fill="#42658a" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">TEJASRS77 / GITHUB</text>
+<text x="80" y="228" fill="#102c50" font-family="Arial,sans-serif" font-size="112" font-weight="700" letter-spacing="-4">Tejas Rs<tspan fill="#38bdf8">.</tspan></text>
+<text x="85" y="289" fill="#102c50" font-family="Arial,sans-serif" font-size="22" letter-spacing="4">DATA · MACHINE LEARNING · WEB</text>
+<text x="85" y="340" fill="#42658a" font-family="Arial,sans-serif" font-size="23">From raw data to useful applications.</text>
+<g fill="none" stroke="url(#line)"><ellipse cx="1270" cy="232" rx="175" ry="175" stroke-opacity=".35"/><ellipse cx="1270" cy="232" rx="225" ry="105" transform="rotate(-35 1270 232)" stroke-opacity=".6"/><ellipse cx="1270" cy="232" rx="225" ry="105" transform="rotate(35 1270 232)" stroke-opacity=".6"/><path d="M1105 279L1190 211L1270 254L1350 156L1440 203" stroke-width="3"/></g>
+<g fill="#38bdf8"><circle cx="1105" cy="279" r="6"/><circle cx="1190" cy="211" r="6"/><circle cx="1270" cy="254" r="7"/><circle cx="1350" cy="156" r="6"/><circle cx="1440" cy="203" r="6"/></g>
+<text x="1270" y="242" text-anchor="middle" font-family="monospace" font-size="60" fill="#102c50" opacity=".9">&lt;/&gt;</text>
+<path d="M80 418H1520" stroke="#42658a" stroke-opacity=".2"/><path d="M80 418H280" stroke="url(#line)" stroke-width="3"/>
+</svg>
