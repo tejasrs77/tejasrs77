@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071426,50:153E75,100:38BDF8&amp;height=190&amp;section=header&amp;text=TEJAS%20RS&amp;fontSize=52&amp;fontColor=E6F1FF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=DATA%20%C2%B7%20CODE%20%C2%B7%20POSSIBILITY&amp;descAlignY=60&amp;descSize=14">
-  <img width="100%" alt="Tejas Rs — Data, Code, Possibility" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:DBEAFE,50:93C5FD,100:2563EB&amp;height=190&amp;section=header&amp;text=TEJAS%20RS&amp;fontSize=52&amp;fontColor=102A56&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=DATA%20%C2%B7%20CODE%20%C2%B7%20POSSIBILITY&amp;descAlignY=60&amp;descSize=14">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejasrs77/tejasrs77/main/banner-dark.svg">
+  <img width="100%" alt="Tejas Rs — Data, Machine Learning, Web" src="https://raw.githubusercontent.com/tejasrs77/tejasrs77/main/banner-light.svg">
 </picture>
 
 <h1>Hey there, I'm Tejas Rs 👋</h1>
