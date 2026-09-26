@@ -106,24 +106,8 @@ A data engineering project focused on financial transaction pipelines, exploring
       <img src="https://img.shields.io/badge/RAG-E67E22?style=flat" alt="RAG">
     </td>
   </tr>
-  <tr>
-    <td><b>Frontend &amp; Applications</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js">
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&amp;logo=vite&amp;logoColor=white" alt="Vite">
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
-    </td>
-  </tr>
-  <tr>
+  
+ 
     <td><b>Databases</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
