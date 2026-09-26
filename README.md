@@ -16,6 +16,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=tejasrs77&amp;style=for-the-badge&amp;color=153e75&amp;label=PROFILE+VIEWS" alt="Profile views counter">
 </p>
+
 <br>
 <h2>About Me</h2>
 
@@ -90,7 +91,8 @@ A data engineering project focused on financial transaction pipelines, exploring
     <td><b>Languages</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&amp;logo=css&amp;logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/SQL-336791?style=flat" alt="SQL">
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat" alt="PowerShell">
     </td>
@@ -102,7 +104,6 @@ A data engineering project focused on financial transaction pipelines, exploring
       <img src="https://img.shields.io/badge/Data%20Engineering-2980B9?style=flat" alt="Data Engineering">
       <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=flat" alt="Generative AI">
       <img src="https://img.shields.io/badge/RAG-E67E22?style=flat" alt="RAG">
-      <img src="https://img.shields.io/badge/Web%20Development-0277BD?style=flat" alt="Web Development">
     </td>
   </tr>
   <tr>
