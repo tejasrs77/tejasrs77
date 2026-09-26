@@ -7,7 +7,10 @@
 
 <h1>Hey there, I'm Tejas Rs 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Exploring+data+and+machine+learning;From+data+pipelines+to+AI+applications;Turning+ideas+into+working+projects" width="100%" alt="Exploring data and machine learning. From data pipelines to AI applications. Turning ideas into working projects.">
+<img
+  src="https://raw.githubusercontent.com/tejasrs77/tejasrs77/main/banner-ai.png"
+  width="100%"
+  alt="Tejas Rs — Data, Machine Learning, Applied AI">
 
 <p>
   <a href="https://github.com/tejasrs77?tab=followers"><img src="https://img.shields.io/github/followers/tejasrs77?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Followers&amp;labelColor=0B1730&amp;color=153E75" alt="GitHub followers"></a>
