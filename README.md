@@ -198,7 +198,11 @@ A data engineering project focused on financial transaction pipelines, exploring
 
 <p>
   <a href="https://github.com/tejasrs77"><img src="https://img.shields.io/badge/GitHub-tejasrs77-153E75?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0B1730" alt="Connect on GitHub"></a>
-  <img src="https://img.shields.io/badge/Instagram-Coming%20soon-153E75?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=0B1730" alt="Instagram — link coming soon">
+  <a href="https://www.instagram.com/_.tejasss7/">
+  <img
+    src="https://img.shields.io/badge/Instagram-_.tejasss7-153E75?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=0B1730"
+    alt="Connect with _.tejasss7 on Instagram">
+</a>
   <img src="https://img.shields.io/badge/LinkedIn-Coming%20soon-153E75?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0B1730" alt="LinkedIn — link coming soon">
 </p>
 
