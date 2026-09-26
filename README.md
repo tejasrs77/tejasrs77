@@ -1,23 +1,21 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejasrs77/tejasrs77/main/banner-dark.svg">
-  <img width="100%" alt="Tejas Rs — Data, Machine Learning, Web" src="https://raw.githubusercontent.com/tejasrs77/tejasrs77/main/banner-light.svg">
-</picture>
-
-<h1>Hey there, I'm Tejas Rs 👋</h1>
-
 <img
-  src="https://raw.githubusercontent.com/tejasrs77/tejasrs77/main/banner-ai.png"
+  src="./banner-ai.png"
   width="100%"
   alt="Tejas Rs — Data, Machine Learning, Applied AI">
 
+<h1>Hey there, I'm Tejas Rs 👋</h1>
+
 <p>
-  <a href="https://github.com/tejasrs77?tab=followers"><img src="https://img.shields.io/github/followers/tejasrs77?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Followers&amp;labelColor=0B1730&amp;color=153E75" alt="GitHub followers"></a>
-  <a href="https://github.com/tejasrs77?tab=repositories"><img src="https://img.shields.io/github/stars/tejasrs77?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Stars&amp;labelColor=0B1730&amp;color=153E75" alt="Stars received across public repositories"></a>
+  <a href="https://github.com/tejasrs77?tab=followers">
+    <img src="https://img.shields.io/github/followers/tejasrs77?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Followers&amp;labelColor=0B1730&amp;color=153E75" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/tejasrs77?tab=repositories">
+    <img src="https://img.shields.io/github/stars/tejasrs77?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Stars&amp;labelColor=0B1730&amp;color=153E75" alt="Stars received across public repositories">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=tejasrs77&amp;style=for-the-badge&amp;color=153e75&amp;label=PROFILE+VIEWS" alt="Profile views counter">
 </p>
-
 <br>
 <h2>About Me</h2>
 
