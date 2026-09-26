@@ -197,13 +197,17 @@ A data engineering project focused on financial transaction pipelines, exploring
 <h2>Let's Connect</h2>
 
 <p>
-  <a href="https://github.com/tejasrs77"><img src="https://img.shields.io/badge/GitHub-tejasrs77-153E75?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0B1730" alt="Connect on GitHub"></a>
+  <a href="https://github.com/tejasrs77">
+    <img src="https://img.shields.io/badge/GitHub-tejasrs77-153E75?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0B1730" alt="Connect on GitHub">
+  </a>
+
   <a href="https://www.instagram.com/_.tejasss7/">
-  <img
-    src="https://img.shields.io/badge/Instagram-_.tejasss7-153E75?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=0B1730"
-    alt="Connect with _.tejasss7 on Instagram">
-</a>
-  <img src="https://img.shields.io/badge/LinkedIn-Coming%20soon-153E75?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0B1730" alt="LinkedIn — link coming soon">
+    <img src="https://img.shields.io/badge/Instagram-_.tejasss7-153E75?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=0B1730" alt="Connect on Instagram">
+  </a>
+
+  <a href="https://www.linkedin.com/in/tejas-rs-4ba381410/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tejas%20Rs-153E75?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0B1730" alt="Connect with Tejas Rs on LinkedIn">
+  </a>
 </p>
 
 <!-- Add your actual LinkedIn and Instagram URLs when ready. -->
