@@ -19,19 +19,19 @@
 <h2>About Me</h2>
 
 <table width="100%">
-<tr>
-<td width="65%" align="center" valign="middle">
-  <h3>From raw data to useful applications.</h3>
-  <p>I'm <b>Tejas Rs</b>, here on GitHub as <b>@tejasrs77</b>.</p>
-  <p>I build projects exploring <b>data engineering</b>, <b>machine learning</b>, and <b>applied AI</b>.</p>
-  <p>My work spans healthcare record retrieval with RAG, aircraft-engine predictive maintenance, financial reconciliation, and transaction data pipelines.</p>
-  <p>I enjoy connecting data, models, and interfaces to turn ideas into working applications.</p>
-</td>
-<td width="35%" align="center" valign="middle">
-  <img src="https://avatars.githubusercontent.com/u/192486693?v=4" width="190" alt="Tejas Rs GitHub avatar">
-  <p><b>TEJAS RS</b><br><sub>DATA · ML · APPLIED AI</sub></p>
-</td>
-</tr>
+  <tr>
+    <td width="65%" align="center" valign="middle">
+      <h3>From raw data to useful applications.</h3>
+      <p>I'm <b>Tejas Rs</b>, here on GitHub as <b>@tejasrs77</b>.</p>
+      <p>I build projects exploring <b>data engineering</b>, <b>machine learning</b>, and <b>applied AI</b>.</p>
+      <p>My work spans healthcare record retrieval with RAG, aircraft-engine predictive maintenance, financial reconciliation, and transaction data pipelines.</p>
+      <p>I enjoy connecting data, models, and interfaces to turn ideas into working applications.</p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://avatars.githubusercontent.com/u/192486693?v=4" width="190" alt="Tejas Rs GitHub avatar">
+      <p><b>TEJAS RS</b><br><sub>DATA · ML · APPLIED AI</sub></p>
+    </td>
+  </tr>
 </table>
 
 <br>
@@ -78,19 +78,97 @@ A data engineering project focused on financial transaction pipelines, exploring
 
 ---
 
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<table width="100%">
+  <tr>
+    <th align="left" width="25%">Property</th>
+    <th align="left">Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat" alt="SQL">
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat" alt="PowerShell">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Areas of Interest</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Machine%20Learning-00B894?style=flat" alt="Machine Learning">
+      <img src="https://img.shields.io/badge/Data%20Engineering-2980B9?style=flat" alt="Data Engineering">
+      <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=flat" alt="Generative AI">
+      <img src="https://img.shields.io/badge/RAG-E67E22?style=flat" alt="RAG">
+      <img src="https://img.shields.io/badge/Web%20Development-0277BD?style=flat" alt="Web Development">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend &amp; Applications</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&amp;logo=vite&amp;logoColor=white" alt="Vite">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&amp;logo=sqlite&amp;logoColor=white" alt="SQLite">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/pgvector-336791?style=flat" alt="pgvector">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Machine Learning</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/XGBoost-2E8B57?style=flat" alt="XGBoost">
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&amp;logo=mlflow&amp;logoColor=white" alt="MLflow">
+      <img src="https://img.shields.io/badge/SHAP-FF0051?style=flat" alt="SHAP">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Analysis</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" alt="Matplotlib">
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI Retrieval &amp; Guardrails</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Clinical%20Embeddings-8E44AD?style=flat" alt="Clinical Embeddings">
+      <img src="https://img.shields.io/badge/Microsoft%20Presidio-0078D4?style=flat" alt="Microsoft Presidio">
+      <img src="https://img.shields.io/badge/NeMo%20Guardrails-76B900?style=flat&amp;logo=nvidia&amp;logoColor=white" alt="NVIDIA NeMo Guardrails">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; Development Tools</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat" alt="AWS">
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&amp;logo=pytest&amp;logoColor=white" alt="Pytest">
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-
-<h2>🛠️ Tech Stack</h2>
-<p><sub>Technologies featured in my project repositories</sub></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,fastapi,mysql,sqlite,postgres,nodejs,pytorch,sklearn,docker,aws,github,githubactions,powershell&amp;theme=dark&amp;perline=18">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,vite,fastapi,mysql,sqlite,postgres,nodejs,pytorch,sklearn,docker,aws,github,githubactions,powershell&amp;theme=light&amp;perline=18" width="100%" alt="Python, TypeScript, React, Next.js, Tailwind CSS, Vite, FastAPI, MySQL, SQLite, PostgreSQL, Node.js, PyTorch, scikit-learn, Docker, AWS, GitHub, GitHub Actions, PowerShell">
-</picture>
-
-<p>
-  <sub>Pandas · NumPy · Matplotlib · XGBoost · MLflow · SHAP · Pytest · Streamlit · pgvector · Presidio · NeMo Guardrails</sub>
-</p>
 
 <br>
 <h2>GitHub Activity</h2>
