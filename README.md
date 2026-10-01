@@ -14,7 +14,7 @@
   <a href="https://github.com/tejasrs77?tab=repositories">
     <img src="https://img.shields.io/github/stars/tejasrs77?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=0B1730&color=153E75" alt="GitHub stars">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tejasrs77&style=for-the-badge&color=153e75&label=PROFILE+VIEWS" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=tejasrs77&style=for-the-badge&color=153e75&label=PROFILE+VIEWS&v=2" alt="Profile views">
 </p>
 
 <br>
