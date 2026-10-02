@@ -60,17 +60,64 @@ A data engineering project exploring how raw financial transactions become struc
 
 [View repository →](https://github.com/tejasrs77/finance-etl)
 
-## Tech stack
+<div align="center">
 
-| Category | Tools |
-| :--- | :--- |
-| Languages | Python, SQL |
-| Data analysis | Pandas, NumPy, Matplotlib |
-| Machine learning | PyTorch, scikit-learn, XGBoost, MLflow, SHAP |
-| APIs and interfaces | FastAPI, Streamlit |
-| Databases and retrieval | PostgreSQL, pgvector, MySQL, SQLite |
-| AI response controls and privacy | NVIDIA NeMo Guardrails, Microsoft Presidio |
-| Development and deployment | Docker, AWS, GitHub Actions, Pytest |
+<h2>🛠️ My developer toolkit</h2>
+<p><i>From raw data to working applications.</i></p>
+
+<h3>🐍 Code & explore</h3>
+<p><sub>Languages and tools for working with data</sub></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-153E75?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-153E75?style=for-the-badge" alt="SQL">
+  <img src="https://img.shields.io/badge/Pandas-153E75?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-153E75?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-153E75?style=for-the-badge" alt="Matplotlib">
+</p>
+
+<h3>🧠 Train & understand</h3>
+<p><sub>Model building, tracking, and interpretation</sub></p>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-235789?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit--learn-235789?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/XGBoost-235789?style=for-the-badge" alt="XGBoost">
+  <img src="https://img.shields.io/badge/MLflow-235789?style=for-the-badge&amp;logo=mlflow&amp;logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/SHAP-235789?style=for-the-badge" alt="SHAP">
+</p>
+
+<h3>🗄️ Store & retrieve</h3>
+<p><sub>Databases and vector search</sub></p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-086F83?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/pgvector-086F83?style=for-the-badge" alt="pgvector">
+  <img src="https://img.shields.io/badge/MySQL-086F83?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQLite-086F83?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite">
+</p>
+
+<h3>⚡ Build & interact</h3>
+<p><sub>APIs and application interfaces</sub></p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-155E75?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Streamlit-155E75?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit">
+</p>
+
+<h3>🛡️ Guard & protect</h3>
+<p><sub>Response controls and PII redaction</sub></p>
+<p>
+  <img src="https://img.shields.io/badge/NeMo%20Guardrails-465699?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="NeMo Guardrails">
+  <img src="https://img.shields.io/badge/Microsoft%20Presidio-465699?style=for-the-badge" alt="Microsoft Presidio">
+</p>
+
+<h3>🚀 Test & ship</h3>
+<p><sub>Testing, automation, and deployment</sub></p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-153E75?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-153E75?style=for-the-badge" alt="AWS">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-153E75?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Pytest-153E75?style=for-the-badge&amp;logo=pytest&amp;logoColor=white" alt="Pytest">
+</p>
+
+</div>
 
 ## One contribution at a time
 
