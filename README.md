@@ -162,10 +162,6 @@ A production-style financial data engineering pipeline that transforms raw trans
 
 ---
 
-## 🔥 GitHub Streak
-
----
-
 <div align="center">
 
 <h2>🔥 GitHub Streak</h2>
@@ -184,15 +180,31 @@ A production-style financial data engineering pipeline that transforms raw trans
 
 ---
 
----
+<div align="center">
 
-## 🐍 One contribution at a time
+<h2>🐍 Contribution Journey</h2>
+
+<p><i>Building consistently, one contribution at a time.</i></p>
+
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejasrs77/tejasrs77/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejasrs77/tejasrs77/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/tejasrs77/tejasrs77/output/github-snake.svg" width="100%" alt="Animated snake following my GitHub contribution graph">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tejasrs77/tejasrs77/output/github-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/tejasrs77/tejasrs77/output/github-snake.svg"
+  >
+  <img
+    src="https://raw.githubusercontent.com/tejasrs77/tejasrs77/output/github-snake.svg"
+    width="100%"
+    alt="Animated snake following Tejas Rs GitHub contribution graph"
+  >
 </picture>
+
+</div>
 
 ---
 
@@ -201,6 +213,8 @@ A production-style financial data engineering pipeline that transforms raw trans
 ### Let's build something useful.
 
 I'm interested in opportunities involving **Artificial Intelligence, Machine Learning, Applied AI, and Data Engineering**.
+
+<br>
 
 <p>
   <a href="https://www.linkedin.com/in/tejas-rs-4ba381410/">
