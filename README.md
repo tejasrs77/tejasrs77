@@ -164,15 +164,25 @@ A production-style financial data engineering pipeline that transforms raw trans
 
 ## 🔥 GitHub Streak
 
+---
+
 <div align="center">
 
+<h2>🔥 GitHub Streak</h2>
+
+<p><i>Consistency compounds — one commit at a time.</i></p>
+
+<br>
+
 <img
-  src="https://streak-stats.demolab.com?user=tejasrs77&theme=transparent&hide_border=true&ring=153E75&fire=235789&currStreakLabel=153E75&sideLabels=153E75&currStreakNum=235789&sideNums=235789&dates=6B7280"
+  src="https://streak-stats.demolab.com?user=tejasrs77&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=2F81F7&ring=58A6FF&fire=FF9D00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"
   alt="Tejas Rs GitHub Streak"
-  width="85%"
+  width="75%"
 />
 
 </div>
+
+---
 
 ---
 
