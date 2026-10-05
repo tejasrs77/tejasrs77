@@ -13,10 +13,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-153E75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/Resume-View%20Resume-235789?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
-  </a>
-
   <a href="#-featured-projects">
     <img src="https://img.shields.io/badge/Projects-Explore%20My%20Work-465699?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
   </a>
@@ -65,11 +61,6 @@ An educational healthcare RAG application for exploring a selected patient's his
   <a href="https://github.com/tejasrs77/EHR-Insight-and-clinical-validator">
     <img src="https://img.shields.io/badge/Repository-View%20Code-153E75?style=for-the-badge&logo=github&logoColor=white" alt="EHR Repository">
   </a>
-  <!-- Add when deployed:
-  <a href="YOUR_LIVE_DEMO_URL">
-    <img src="https://img.shields.io/badge/Live%20Demo-Launch-086F83?style=for-the-badge&logo=streamlit&logoColor=white" alt="EHR Live Demo">
-  </a>
-  -->
 </p>
 
 ---
@@ -303,10 +294,6 @@ If you're working on intelligent systems, data-driven products, or practical AI 
 
   <a href="https://github.com/tejasrs77">
     <img src="https://img.shields.io/badge/GitHub-Follow-235789?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/Resume-View-465699?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
   </a>
 </p>
 
