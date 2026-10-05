@@ -1,25 +1,36 @@
 <div align="center">
 
-<img src="./banner-ai.png" width="85%" alt="Tejas Rs — Data, Machine Learning, Applied AI">
+<img src="./banner-ai.png" width="85%" alt="Tejas Rs — Artificial Intelligence, Machine Learning and Applied AI">
 
-### Building applications with data, machine learning, and applied AI.
+### AI/ML Engineer | Building Applied AI, RAG & Data-Driven Systems
+
+**Python • Machine Learning • RAG • FastAPI • SQL • Data Engineering**
+
+<br>
 
 <p>
   <a href="https://www.linkedin.com/in/tejas-rs-4ba381410/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-153E75?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Tejas on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-153E75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="#featured-projects">
-    <img src="https://img.shields.io/badge/Projects-Explore%20my%20work-153E75?style=for-the-badge&logo=github&logoColor=white" alt="Explore featured projects">
+
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Resume-View%20Resume-235789?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
+  </a>
+
+  <a href="#-featured-projects">
+    <img src="https://img.shields.io/badge/Projects-Explore%20My%20Work-465699?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
   </a>
 </p>
 
 </div>
 
-## About me
+---
 
-I'm Tejas, an Artificial Intelligence & Machine Learning engineering student interested in building practical AI systems that connect **data, machine learning models, backend services, and application interfaces**.
+## 👋 About Me
 
-My work explores healthcare record retrieval, predictive maintenance, financial reconciliation, and large-scale transaction processing.
+I'm **Tejas Rs**, an Artificial Intelligence & Machine Learning engineering student interested in building practical AI systems that connect **data, machine learning models, backend services, and application interfaces**.
+
+My work explores **healthcare AI, predictive maintenance, financial reconciliation, retrieval-augmented generation, and large-scale transaction processing**.
 
 🎯 **Currently focused on:** Applied AI · Machine Learning · RAG Systems · Data Engineering
 
@@ -27,7 +38,17 @@ I enjoy taking projects beyond model training — from preparing and storing dat
 
 ---
 
-## Featured projects
+## 👨‍💻 Currently
+
+- 🎓 Pursuing **B.E. in Artificial Intelligence & Machine Learning**
+- 🔭 Building **production-oriented AI/ML and data-driven applications**
+- 🌱 Learning **Deep Learning · NLP · MLOps · Generative AI**
+- 🧠 Strengthening **Python · SQL · Machine Learning · Data Engineering**
+- 💼 Open to **AI/ML · Applied AI · Data Science · Data Engineering** internships and entry-level opportunities
+
+---
+
+## 🚀 Featured Projects
 
 ### 🏥 EHR Insight & Clinical Validator
 
@@ -40,7 +61,16 @@ An educational healthcare RAG application for exploring a selected patient's his
 - **Deployment stack:** Docker and AWS.
 - **Stack:** Python · FastAPI · Streamlit · PostgreSQL · pgvector · Presidio · NeMo Guardrails · Docker · AWS
 
-[View repository →](https://github.com/tejasrs77/EHR-Insight-and-clinical-validator)
+<p>
+  <a href="https://github.com/tejasrs77/EHR-Insight-and-clinical-validator">
+    <img src="https://img.shields.io/badge/Repository-View%20Code-153E75?style=for-the-badge&logo=github&logoColor=white" alt="EHR Repository">
+  </a>
+  <!-- Add when deployed:
+  <a href="YOUR_LIVE_DEMO_URL">
+    <img src="https://img.shields.io/badge/Live%20Demo-Launch-086F83?style=for-the-badge&logo=streamlit&logoColor=white" alt="EHR Live Demo">
+  </a>
+  -->
+</p>
 
 ---
 
@@ -54,7 +84,11 @@ An AI-powered predictive maintenance project exploring aircraft-engine reliabili
 - **Data:** NASA C-MAPSS turbofan degradation dataset.
 - **Focus:** Predictive Maintenance · Machine Learning · Remaining Useful Life · Reliability Analytics
 
-[View repository →](https://github.com/tejasrs77/aeroguard-ai)
+<p>
+  <a href="https://github.com/tejasrs77/aeroguard-ai">
+    <img src="https://img.shields.io/badge/Repository-View%20Code-153E75?style=for-the-badge&logo=github&logoColor=white" alt="AeroGuard Repository">
+  </a>
+</p>
 
 ---
 
@@ -69,7 +103,11 @@ An intelligent financial reconciliation platform for matching financial records,
 - **Interface:** Control-tower dashboard for investigating reconciliation results and financial exceptions.
 - **Focus:** Financial Reconciliation · Anomaly Detection · Applied AI · Financial Analytics
 
-[View repository →](https://github.com/tejasrs77/finrecon-ai)
+<p>
+  <a href="https://github.com/tejasrs77/finrecon-ai">
+    <img src="https://img.shields.io/badge/Repository-View%20Code-153E75?style=for-the-badge&logo=github&logoColor=white" alt="FinRecon Repository">
+  </a>
+</p>
 
 ---
 
@@ -85,17 +123,23 @@ A production-style financial data engineering pipeline that transforms raw trans
 - **Testing:** Automated pipeline validation with **49 pytest tests**.
 - **Stack:** Python · Pandas · MySQL · SQLAlchemy · Pytest · FastAPI · React
 
-[View repository →](https://github.com/tejasrs77/finance-etl)
+<p>
+  <a href="https://github.com/tejasrs77/finance-etl">
+    <img src="https://img.shields.io/badge/Repository-View%20Code-153E75?style=for-the-badge&logo=github&logoColor=white" alt="Finance ETL Repository">
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-<h2>🛠️ My developer toolkit</h2>
+<h2>🛠️ My Developer Toolkit</h2>
 
 <p><i>From raw data to intelligent, deployable applications.</i></p>
 
-<h3>🐍 Code & explore</h3>
+<br>
+
+<h3>🐍 Code & Explore</h3>
 <p><sub>Languages and tools for working with data</sub></p>
 
 <p>
@@ -106,7 +150,9 @@ A production-style financial data engineering pipeline that transforms raw trans
   <img src="https://img.shields.io/badge/Matplotlib-153E75?style=for-the-badge" alt="Matplotlib">
 </p>
 
-<h3>🧠 Train & understand</h3>
+<br>
+
+<h3>🧠 Train & Understand</h3>
 <p><sub>Machine learning, evaluation, and interpretation</sub></p>
 
 <p>
@@ -117,7 +163,9 @@ A production-style financial data engineering pipeline that transforms raw trans
   <img src="https://img.shields.io/badge/SHAP-235789?style=for-the-badge" alt="SHAP">
 </p>
 
-<h3>🔎 Retrieve & reason</h3>
+<br>
+
+<h3>🔎 Retrieve & Reason</h3>
 <p><sub>Retrieval systems, vector search, and responsible AI</sub></p>
 
 <p>
@@ -127,7 +175,9 @@ A production-style financial data engineering pipeline that transforms raw trans
   <img src="https://img.shields.io/badge/Microsoft%20Presidio-465699?style=for-the-badge" alt="Microsoft Presidio">
 </p>
 
-<h3>🗄️ Store & process</h3>
+<br>
+
+<h3>🗄️ Store & Process</h3>
 <p><sub>Databases, vector storage, and data pipelines</sub></p>
 
 <p>
@@ -138,7 +188,9 @@ A production-style financial data engineering pipeline that transforms raw trans
   <img src="https://img.shields.io/badge/SQLAlchemy-086F83?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
 </p>
 
-<h3>⚡ Build & interact</h3>
+<br>
+
+<h3>⚡ Build & Interact</h3>
 <p><sub>APIs and application interfaces</sub></p>
 
 <p>
@@ -147,7 +199,9 @@ A production-style financial data engineering pipeline that transforms raw trans
   <img src="https://img.shields.io/badge/React-155E75?style=for-the-badge&logo=react&logoColor=white" alt="React">
 </p>
 
-<h3>🚀 Test & ship</h3>
+<br>
+
+<h3>🚀 Test & Ship</h3>
 <p><sub>Version control, testing, automation, and deployment</sub></p>
 
 <p>
@@ -157,6 +211,30 @@ A production-style financial data engineering pipeline that transforms raw trans
   <img src="https://img.shields.io/badge/GitHub%20Actions-153E75?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Pytest-153E75?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>📈 GitHub Activity</h2>
+
+<p><i>Building, learning, and improving consistently.</i></p>
+
+<br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=tejasrs77&show_icons=true&hide_border=true&theme=tokyonight&border_radius=12"
+  width="48%"
+  alt="Tejas Rs GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasrs77&layout=compact&hide_border=true&theme=tokyonight&border_radius=12"
+  width="37%"
+  alt="Tejas Rs Top Languages"
+/>
 
 </div>
 
@@ -210,9 +288,11 @@ A production-style financial data engineering pipeline that transforms raw trans
 
 <div align="center">
 
-### Let's build something useful.
+<h2>🤝 Let's Build Something Useful</h2>
 
-I'm interested in opportunities involving **Artificial Intelligence, Machine Learning, Applied AI, and Data Engineering**.
+I'm open to **AI/ML Engineering, Applied AI, Data Science, and Data Engineering internships & entry-level opportunities.**
+
+If you're working on intelligent systems, data-driven products, or practical AI applications, I'd be happy to connect.
 
 <br>
 
@@ -220,9 +300,20 @@ I'm interested in opportunities involving **Artificial Intelligence, Machine Lea
   <a href="https://www.linkedin.com/in/tejas-rs-4ba381410/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-153E75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
   <a href="https://github.com/tejasrs77">
-    <img src="https://img.shields.io/badge/GitHub-Follow-153E75?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-235789?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Resume-View-465699?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
   </a>
 </p>
+
+<br>
+
+### Thanks for visiting my profile.
+
+<sub>Building practical AI systems, one project at a time.</sub>
 
 </div>
