@@ -2,7 +2,7 @@
 
 <img src="./banner-ai.png" width="85%" alt="Tejas Rs — Artificial Intelligence, Machine Learning and Applied AI">
 
-### AI/ML Engineer | Building Applied AI, RAG & Data-Driven Systems
+### AI/ML Engineer | Building Applied AI, RAG & Data-Driven Systems.
 
 **Python • Machine Learning • RAG • FastAPI • SQL • Data Engineering**
 
