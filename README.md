@@ -2,6 +2,8 @@
 
 <img src="./banner-ai.png" width="85%" alt="Tejas Rs — Artificial Intelligence, Machine Learning and Applied AI">
 
+# Hi, I'm Tejas Rs 👋
+
 ### AI/ML Engineer | Building Applied AI, RAG & Data-Driven Systems.
 
 **Python • Machine Learning • RAG • FastAPI • SQL • Data Engineering**
@@ -11,6 +13,10 @@
 <p>
   <a href="https://www.linkedin.com/in/tejas-rs-4ba381410/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-153E75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://tejas-portfolio-vercel-ashy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-235789?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 
   <a href="#-featured-projects">
@@ -26,11 +32,23 @@
 
 I'm **Tejas Rs**, an Artificial Intelligence & Machine Learning engineering student interested in building practical AI systems that connect **data, machine learning models, backend services, and application interfaces**.
 
-My work explores **healthcare AI, predictive maintenance, financial reconciliation, retrieval-augmented generation, and large-scale transaction processing**.
+My work explores **healthcare AI, predictive maintenance, financial reconciliation, computer vision, retrieval-augmented generation, and large-scale transaction processing**.
 
-🎯 **Currently focused on:** Applied AI · Machine Learning · RAG Systems · Data Engineering
+🎯 **Currently focused on:** Applied AI · Machine Learning · RAG Systems · Computer Vision · Data Engineering
 
 I enjoy taking projects beyond model training — from preparing and storing data to building APIs, interfaces, evaluation pipelines, and deployable applications.
+
+---
+
+## ⚡ What I Build
+
+<div align="center">
+
+**Machine Learning Systems** → **RAG Applications** → **Computer Vision** → **Data Pipelines** → **AI APIs** → **Deployable Applications**
+
+<sub>Turning data and models into practical end-to-end AI systems.</sub>
+
+</div>
 
 ---
 
@@ -122,6 +140,25 @@ A production-style financial data engineering pipeline that transforms raw trans
 
 ---
 
+### 👁️ VisionGuard AI
+
+A computer vision project exploring real-time visual understanding using YOLOv8 and OpenCV.
+
+- **Object detection:** Detects and localizes objects in images and video using YOLOv8.
+- **Video analytics:** Processes video streams frame-by-frame using OpenCV and YOLO.
+- **Model outputs:** Works with bounding boxes, confidence scores, and predicted object classes.
+- **Computer vision:** Extending the project with segmentation and pose estimation capabilities.
+- **Focus:** Computer Vision · YOLOv8 · Object Detection · Segmentation · Pose Estimation
+- **Stack:** Python · OpenCV · Ultralytics YOLOv8
+
+<p>
+  <a href="https://github.com/tejasrs77/visionguard-ai">
+    <img src="https://img.shields.io/badge/Repository-View%20Code-153E75?style=for-the-badge&logo=github&logoColor=white" alt="VisionGuard AI Repository">
+  </a>
+</p>
+
+---
+
 <div align="center">
 
 <h2>🛠️ My Developer Toolkit</h2>
@@ -144,11 +181,13 @@ A production-style financial data engineering pipeline that transforms raw trans
 <br>
 
 <h3>🧠 Train & Understand</h3>
-<p><sub>Machine learning, evaluation, and interpretation</sub></p>
+<p><sub>Machine learning, deep learning, evaluation, and interpretation</sub></p>
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-235789?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/scikit--learn-235789?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/PyTorch-235789?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/YOLOv8-235789?style=for-the-badge" alt="YOLOv8">
+  <img src="https://img.shields.io/badge/OpenCV-235789?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/XGBoost-235789?style=for-the-badge" alt="XGBoost">
   <img src="https://img.shields.io/badge/MLflow-235789?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
   <img src="https://img.shields.io/badge/SHAP-235789?style=for-the-badge" alt="SHAP">
@@ -290,6 +329,10 @@ If you're working on intelligent systems, data-driven products, or practical AI 
 <p>
   <a href="https://www.linkedin.com/in/tejas-rs-4ba381410/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-153E75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://tejas-portfolio-vercel-ashy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-465699?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 
   <a href="https://github.com/tejasrs77">
